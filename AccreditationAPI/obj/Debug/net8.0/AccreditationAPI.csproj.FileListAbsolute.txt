@@ -1,0 +1,302 @@
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\publish\web.config
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\appsettings.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\publish\AccreditationAPI.deps.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\publish\AccreditationAPI.runtimeconfig.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\publish\appsettings.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.exe
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.deps.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.runtimeconfig.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.pdb
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.csproj.AssemblyReference.cache
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.AssemblyInfoInputs.cache
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.AssemblyInfo.cs
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.csproj.CoreCompileInputs.cache
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.sourcelink.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\staticwebassets\msbuild.AccreditationAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AccreditationAPI.props
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AccreditationAPI.props
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AccreditationAPI.props
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\scopedcss\bundle\AccreditationAPI.styles.css
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.csproj.CopyComplete
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\refint\AccreditationAPI.dll
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.pdb
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.genruntimeconfig.cache
+D:\Programming\Accreditation\React_Accreditation\AccreditationAPI\obj\Debug\net8.0\ref\AccreditationAPI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\publish\web.config
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\appsettings.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\publish\AccreditationAPI.deps.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\publish\AccreditationAPI.runtimeconfig.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\publish\appsettings.Development.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\publish\appsettings.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.exe
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.deps.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.runtimeconfig.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\AccreditationAPI.pdb
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\AutoMapper.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.csproj.AssemblyReference.cache
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.AssemblyInfoInputs.cache
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.AssemblyInfo.cs
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.csproj.CoreCompileInputs.cache
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.sourcelink.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\staticwebassets\msbuild.AccreditationAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.AccreditationAPI.props
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AccreditationAPI.props
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AccreditationAPI.props
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\scopedcss\bundle\AccreditationAPI.styles.css
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.csproj.CopyComplete
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\refint\AccreditationAPI.dll
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.pdb
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\AccreditationAPI.genruntimeconfig.cache
+D:\Program Academic Accreditation System Source Code\FYP 2\AccreditationAPI\obj\Debug\net8.0\ref\AccreditationAPI.dll
